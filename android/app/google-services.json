@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27346186457",
+    "project_id": "fir-notifications-4104d",
+    "storage_bucket": "fir-notifications-4104d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27346186457:android:1cc740152aaf2b1c668ec8",
+        "android_client_info": {
+          "package_name": "com.tutorial.firebase_notification_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpKw6-0vGa0sW2UqYSpuILUUyNmvtRO3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
