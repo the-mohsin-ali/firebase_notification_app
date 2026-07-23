@@ -1,0 +1,10 @@
+# Mark generated/build folders so GitHub doesn't count them as source
+build/** linguist-generated=true
+.dart_tool/** linguist-generated=true
+android/** linguist-vendored=true
+ios/** linguist-vendored=true
+windows/** linguist-vendored=true
+linux/** linguist-vendored=true
+macos/** linguist-vendored=true
+*.g.dart linguist-generated=true
+*.freezed.dart linguist-generated=true
